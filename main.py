@@ -13,7 +13,7 @@ import requests
 import socket
 
 
-DiscordWebhook = "https://discord.com/api/webhooks/897350002949640202/022DWdvntFKxbhZMZLJLqwF2u7yoLopgZj0WLOlIObozwRBXtzed7U8cWrZCD5amZ0AL" # Put discord webhook as a string.
+DiscordWebhook = "" # Put discord webhook as a string.
 
 hostname = socket.gethostname()
 current_local_ip = socket.gethostbyname(hostname) # Grabs Local PC IP Address (Or Router Ip Address)
