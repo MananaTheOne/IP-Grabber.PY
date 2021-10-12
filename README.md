@@ -1,10 +1,10 @@
-# IP-Grabber.PY
+# 🔗 IP-Grabber.PY
 An IP Grabber Made In Python
 
-## Screenshots
+## 🖼️ Screenshots
 <img src="https://github.com/MananaTheOne/IP-Grabber.PY/blob/main/screenshots/screenshot.png?raw=true" width=350>
 
-## Note
+## 🗒️ Note
 **PLEASE DO NOT USE THIS FOR CRIME !**
 
 **I MADE THIS FOR EDUCATIONAL PURPOSES ONLY !**
